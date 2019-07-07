@@ -8,7 +8,7 @@ define( 'API_ACCESS_KEY', 'AIza....EDNs' );
 // my phone, using my FCM senderID, to generate the following registrationId 
 $singleID = 'drUeYxw2GY8:APA91b...CeWPuzgk1XlcrlPd_xbUy' ; 
 $registrationIDs = array(
-     'drUeYxw2GY8:APA91bFgpLKRZ97nJx..........mOHB9BSJeWPuzgk1XlcrlPd_xbUy', 
+     'drUeYxw2GY8:APA91bFgpLKRZ9..........mOHB9BSJeWPuzgk1XlcrlPd_xbUy', 
      'drUeYxw2GY8:APA91bFgpL_QTHC.................uzgk1XlcrlPd_xbUy'
      
 ) ;
